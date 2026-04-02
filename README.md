@@ -27,7 +27,7 @@ This project simulates a production-style analytics workflow:
 ## Repository Structure
 ```text
 ai_data_pipeline_project/
-├── .github/workflows/python-ci.yml
+├── .github/workflows/ci.yml
 ├── data/
 │   └── output/
 ├── docs/
