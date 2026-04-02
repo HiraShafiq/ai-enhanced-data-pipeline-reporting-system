@@ -1,0 +1,6 @@
+metric,value
+total_transactions,1500.0
+total_revenue,1114558.22
+average_order_value,1204.93
+approval_rate,0.6167
+refund_rate,0.1947
