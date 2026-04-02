@@ -97,21 +97,10 @@ Copy `.env.example` to `.env` and update values if you want to connect to Snowfl
 python main.py
 ```
 
-## Snowflake Setup
-If you want to run this against Snowflake:
-1. create a database, schema, and warehouse
-2. add credentials to `.env`
-3. run the pipeline again
+## 💡 Key Highlights
 
-The Python code will attempt to connect only if all Snowflake environment variables are present.
-
-## Portfolio Notes
-This project is designed to be recruiter-friendly and easy to demo on GitHub. You can mention:
-- end-to-end ETL design
-- Python + SQL analytics engineering
-- reporting pipeline automation
-- Snowflake integration
-- AI-assisted development workflow
-
-## Resume Bullet Version
-Designed and implemented scalable SQL and Python workflows integrated with Snowflake, improving reporting efficiency by 35% through optimized data processing and reusable pipeline architecture. Leveraged AI-assisted development patterns to accelerate debugging, query refinement, and workflow iteration.
+- Built an end-to-end ETL pipeline using Python and SQL  
+- Designed modular data workflows for scalability and reuse  
+- Automated KPI generation and reporting outputs  
+- Integrated optional Snowflake loading for cloud analytics  
+- Leveraged AI-assisted development to accelerate debugging and optimization  
