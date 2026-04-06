@@ -17,6 +17,9 @@ This project simulates a production-style analytics workflow:
 - Improved reporting efficiency by structuring pipeline steps and reusable transforms
 - Leveraged AI-assisted development patterns to speed up debugging, query refinement, and workflow iteration
 
+## Note
+This project runs successfully in local mode without Snowflake credentials. If Snowflake environment variables are configured, the pipeline can also upload processed data and execute cloud-based SQL transformations.
+
 ## Tech Stack
 - Python
 - SQL
